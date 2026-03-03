@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Check out my repo's!</p>
+<p align="left">Check out my repo's!</p>
 
 ###
 
